@@ -1,2 +1,2 @@
 # dms
-DMS is a Dealer Management System build on NodeJS. MySQL as Database and React in frontend. I build this app for learning purpose. But in future I will add more feature on it.
+DMS is a Dealer Management System build on NodeJS. MySQL as Database and React in frontend. I build this app for learning purpose. But in future I will add more feature on it. I am working on a dealer who sale bajaj motorcycle. So mainly i focused on Motorcycle Management. It's includes all the feature about Motorcycle such as Motorcycle Sales, Service, Spare Parts, Customer Information, Sales Report, Stock Report and more.
